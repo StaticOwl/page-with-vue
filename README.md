@@ -1,3 +1,7 @@
+This Project is about creating my page with Vue.
+
+I have used GridSome Module to create this.
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
